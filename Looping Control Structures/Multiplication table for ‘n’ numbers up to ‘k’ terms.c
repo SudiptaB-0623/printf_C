@@ -1,4 +1,4 @@
-/*Generate the multiplication table for ‘n’ numbers up to ‘k’ terms (using nested
+/*Generate the multiplication table for â€˜nâ€™ numbers up to â€˜kâ€™ terms (using nested
 for loops)*/
 
 #include<stdio.h>
