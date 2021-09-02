@@ -1,4 +1,4 @@
-/*Generate Floyd’s triangle using natural numbers for a given limit N. (using for loops)*/
+/*Generate Floydâ€™s triangle using natural numbers for a given limit N. (using for loops)*/
 
 #include<stdio.h>
 
