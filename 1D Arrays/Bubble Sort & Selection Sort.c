@@ -1,5 +1,4 @@
-/*Arrange the given elements in a 1D array in ascending and descending order using
-bubble sort method*/
+/*Arrange the given elements in a 1D array in ascending and descending order using bubble sort & selection sort method respectively*/
 
 #include<stdio.h>
 
